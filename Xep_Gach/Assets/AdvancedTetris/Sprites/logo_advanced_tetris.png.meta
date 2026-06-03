@@ -1,0 +1,1001 @@
+fileFormatVersion: 2
+guid: 1ad6fc528b5131f48af2ed096940f3a3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5417042201228115622
+    second: logo_advanced_tetris_0
+  - first:
+      213: -8789609232262607515
+    second: logo_advanced_tetris_1
+  - first:
+      213: 7347802631571275271
+    second: logo_advanced_tetris_2
+  - first:
+      213: -6139268844773301017
+    second: logo_advanced_tetris_3
+  - first:
+      213: 8557405625435462015
+    second: logo_advanced_tetris_4
+  - first:
+      213: -1865907927779812165
+    second: logo_advanced_tetris_5
+  - first:
+      213: 8229407861034302109
+    second: logo_advanced_tetris_6
+  - first:
+      213: -4111538743885610047
+    second: logo_advanced_tetris_7
+  - first:
+      213: -4170370853538332563
+    second: logo_advanced_tetris_8
+  - first:
+      213: -2178879441456164323
+    second: logo_advanced_tetris_9
+  - first:
+      213: -132160807250735626
+    second: logo_advanced_tetris_10
+  - first:
+      213: 234137881528570293
+    second: logo_advanced_tetris_11
+  - first:
+      213: 4571339097866963419
+    second: logo_advanced_tetris_12
+  - first:
+      213: -1552172457947714581
+    second: logo_advanced_tetris_13
+  - first:
+      213: 1040258471684922772
+    second: logo_advanced_tetris_14
+  - first:
+      213: 2943030723723460505
+    second: logo_advanced_tetris_15
+  - first:
+      213: -2417690816988424354
+    second: logo_advanced_tetris_16
+  - first:
+      213: -1102300037605172204
+    second: logo_advanced_tetris_17
+  - first:
+      213: 1717447130553436665
+    second: logo_advanced_tetris_18
+  - first:
+      213: 2098789863259050082
+    second: logo_advanced_tetris_19
+  - first:
+      213: -7763541848645165454
+    second: logo_advanced_tetris_20
+  - first:
+      213: -2391975014970685759
+    second: logo_advanced_tetris_21
+  - first:
+      213: -7984124846176656394
+    second: logo_advanced_tetris_22
+  - first:
+      213: 927881645713283112
+    second: logo_advanced_tetris_23
+  - first:
+      213: -7959488118132493935
+    second: logo_advanced_tetris_24
+  - first:
+      213: 6256150385581322327
+    second: logo_advanced_tetris_25
+  - first:
+      213: 5912958390883423781
+    second: logo_advanced_tetris_26
+  - first:
+      213: -2617503775457237608
+    second: logo_advanced_tetris_27
+  - first:
+      213: -1320528391600211885
+    second: logo_advanced_tetris_28
+  - first:
+      213: -260552899140324510
+    second: logo_advanced_tetris_29
+  - first:
+      213: 2418710096760690788
+    second: logo_advanced_tetris_30
+  - first:
+      213: -4543837187147582158
+    second: logo_advanced_tetris_31
+  - first:
+      213: 932155770661976893
+    second: logo_advanced_tetris_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: logo_advanced_tetris_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 111
+        width: 50
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ae70896e233d2b40800000000000000
+      internalID: 5417042201228115622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_advanced_tetris_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 111
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d4e7cf8f8050680800000000000000
+      internalID: -8789609232262607515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_advanced_tetris_2
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 111
+        width: 65
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70e7c762093a8f560800000000000000
+      internalID: 7347802631571275271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_advanced_tetris_3
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 111
+        width: 65
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e42aae438feccaa0800000000000000
+      internalID: -6139268844773301017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_advanced_tetris_4
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 111
+        width: 57
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f799207c31302c670800000000000000
+      internalID: 8557405625435462015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_advanced_tetris_5
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 110
+        width: 54
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbc591d20a6fa16e0800000000000000
+      internalID: -1865907927779812165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_advanced_tetris_6
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 111
+        width: 47
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ab1cc29dab43270800000000000000
+      internalID: 8229407861034302109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_advanced_tetris_7
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 111
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c3417adb41e0f6c0800000000000000
+      internalID: -4111538743885610047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_advanced_tetris_8
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 111
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d608435edcddf16c0800000000000000
+      internalID: -4170370853538332563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_advanced_tetris_9
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 111
+        width: 47
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d129a9331b013c1e0800000000000000
+      internalID: -2178879441456164323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_advanced_tetris_10
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 111
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fd479e22787a2ef0800000000000000
+      internalID: -132160807250735626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_advanced_tetris_11
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 111
+        width: 57
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b119f8a923df3300800000000000000
+      internalID: 234137881528570293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_advanced_tetris_12
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 111
+        width: 22
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd9073480b8a07f30800000000000000
+      internalID: 4571339097866963419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_advanced_tetris_13
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 110
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beba1ed8f53957ae0800000000000000
+      internalID: -1552172457947714581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_advanced_tetris_14
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 61
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49dde57819dbf6e00800000000000000
+      internalID: 1040258471684922772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_advanced_tetris_15
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 61
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99ff892b9deb7d820800000000000000
+      internalID: 2943030723723460505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_advanced_tetris_16
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 61
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e575eace203a27ed0800000000000000
+      internalID: -2417690816988424354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_advanced_tetris_17
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 61
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41cd4aeb4f7d3b0f0800000000000000
+      internalID: -1102300037605172204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_advanced_tetris_18
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 61
+        width: 6
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f9c629d01995d710800000000000000
+      internalID: 1717447130553436665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_advanced_tetris_19
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 61
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2601fb1c246602d10800000000000000
+      internalID: 2098789863259050082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_advanced_tetris_20
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 61
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27e10a852db524490800000000000000
+      internalID: -7763541848645165454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_advanced_tetris_21
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 61
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c60019a56ffdced0800000000000000
+      internalID: -2391975014970685759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_advanced_tetris_22
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 55
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f3254d01c0b23190800000000000000
+      internalID: -7984124846176656394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_advanced_tetris_23
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 61
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 828585ec07f70ec00800000000000000
+      internalID: 927881645713283112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_advanced_tetris_24
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 61
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19135cc4ab73a8190800000000000000
+      internalID: -7959488118132493935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_advanced_tetris_25
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 61
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7507ff111af42d650800000000000000
+      internalID: 6256150385581322327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_advanced_tetris_26
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 61
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 526954c045c0f0250800000000000000
+      internalID: 5912958390883423781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_advanced_tetris_27
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 61
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 895a0a13f22ccabd0800000000000000
+      internalID: -2617503775457237608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_advanced_tetris_28
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 61
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 358f9de9c6a8cade0800000000000000
+      internalID: -1320528391600211885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_advanced_tetris_29
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 61
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 263fa89c484526cf0800000000000000
+      internalID: -260552899140324510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_advanced_tetris_30
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 61
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4685214a40cf09120800000000000000
+      internalID: 2418710096760690788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_advanced_tetris_31
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 61
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 235bbde072c01f0c0800000000000000
+      internalID: -4543837187147582158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_advanced_tetris_32
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 61
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b33a11cbeafec00800000000000000
+      internalID: 932155770661976893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      logo_advanced_tetris_0: 5417042201228115622
+      logo_advanced_tetris_1: -8789609232262607515
+      logo_advanced_tetris_10: -132160807250735626
+      logo_advanced_tetris_11: 234137881528570293
+      logo_advanced_tetris_12: 4571339097866963419
+      logo_advanced_tetris_13: -1552172457947714581
+      logo_advanced_tetris_14: 1040258471684922772
+      logo_advanced_tetris_15: 2943030723723460505
+      logo_advanced_tetris_16: -2417690816988424354
+      logo_advanced_tetris_17: -1102300037605172204
+      logo_advanced_tetris_18: 1717447130553436665
+      logo_advanced_tetris_19: 2098789863259050082
+      logo_advanced_tetris_2: 7347802631571275271
+      logo_advanced_tetris_20: -7763541848645165454
+      logo_advanced_tetris_21: -2391975014970685759
+      logo_advanced_tetris_22: -7984124846176656394
+      logo_advanced_tetris_23: 927881645713283112
+      logo_advanced_tetris_24: -7959488118132493935
+      logo_advanced_tetris_25: 6256150385581322327
+      logo_advanced_tetris_26: 5912958390883423781
+      logo_advanced_tetris_27: -2617503775457237608
+      logo_advanced_tetris_28: -1320528391600211885
+      logo_advanced_tetris_29: -260552899140324510
+      logo_advanced_tetris_3: -6139268844773301017
+      logo_advanced_tetris_30: 2418710096760690788
+      logo_advanced_tetris_31: -4543837187147582158
+      logo_advanced_tetris_32: 932155770661976893
+      logo_advanced_tetris_4: 8557405625435462015
+      logo_advanced_tetris_5: -1865907927779812165
+      logo_advanced_tetris_6: 8229407861034302109
+      logo_advanced_tetris_7: -4111538743885610047
+      logo_advanced_tetris_8: -4170370853538332563
+      logo_advanced_tetris_9: -2178879441456164323
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
